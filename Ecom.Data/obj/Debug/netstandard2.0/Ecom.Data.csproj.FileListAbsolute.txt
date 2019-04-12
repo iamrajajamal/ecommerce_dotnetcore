@@ -1,0 +1,7 @@
+C:\Users\Jamal\source\repos\E-Commerce\Ecom.Data\bin\Debug\netstandard2.0\Ecom.Data.deps.json
+C:\Users\Jamal\source\repos\E-Commerce\Ecom.Data\bin\Debug\netstandard2.0\Ecom.Data.dll
+C:\Users\Jamal\source\repos\E-Commerce\Ecom.Data\obj\Debug\netstandard2.0\Ecom.Data.csprojAssemblyReference.cache
+C:\Users\Jamal\source\repos\E-Commerce\Ecom.Data\obj\Debug\netstandard2.0\Ecom.Data.csproj.CoreCompileInputs.cache
+C:\Users\Jamal\source\repos\E-Commerce\Ecom.Data\obj\Debug\netstandard2.0\Ecom.Data.AssemblyInfoInputs.cache
+C:\Users\Jamal\source\repos\E-Commerce\Ecom.Data\obj\Debug\netstandard2.0\Ecom.Data.AssemblyInfo.cs
+C:\Users\Jamal\source\repos\E-Commerce\Ecom.Data\bin\Debug\netstandard2.0\Ecom.Domain.dll
