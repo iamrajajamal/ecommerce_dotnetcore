@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Ecom.Domain.Entities.Catalog
+﻿namespace Ecom.Domain.Entities.Catalog
 {
     public class Product
     {
